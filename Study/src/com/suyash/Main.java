@@ -34,13 +34,13 @@ public class Main {
                 System.out.println("Addition of two element:: "+(num1+num2));
                 break;
             case '-':
-                System.out.println("Addition of two element:: "+ (num1-num2));
+                System.out.println("subtraction  of two element:: "+ (num1-num2));
                 break;
             case '*':
-                System.out.println(num1*num2);
+                System.out.println("multiplication  of two element:: "+ (num1*num2));
                 break;
             case '/':
-                System.out.println(num1/num2);
+                System.out.println("multiplication  of two element:: "+ (num1/num2));
                 break;
             default:
                 System.out.println("please select valid operator..");
