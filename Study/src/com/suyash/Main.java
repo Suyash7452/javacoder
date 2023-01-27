@@ -9,7 +9,9 @@ import java.util.stream.Collectors;
 public class Main {
 
     public static void main(String[] args) {
+
 //simple calculator java code
+
         double num1,num2;
         char operater ;
         Scanner scanner=new Scanner(System.in);
