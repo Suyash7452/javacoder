@@ -34,7 +34,7 @@ public class Main {
                 System.out.println("Addition of two element:: "+(num1+num2));
                 break;
             case '-':
-                System.out.println(num1-num2);
+                System.out.println("Addition of two element:: "+ (num1-num2));
                 break;
             case '*':
                 System.out.println(num1*num2);
